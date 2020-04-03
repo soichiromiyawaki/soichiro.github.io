@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Udacity Project1
 
+For this project, I use [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/kernels).
 You can use the [editor on GitHub](https://github.com/soichiromiyawaki/soichiro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
